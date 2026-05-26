@@ -1,0 +1,28 @@
+{
+  "name": "@santhoshk382/orbit-queue",
+  "version": "1.0.0",
+  "description": "message-queue is a flexible and lightweight Node.js package that provides a unified interface for working with multiple message queue providers. Currently, it supports both RabbitMQ and Amazon SQS, allowing developers to easily publish, consume, acknowledge, and manage messages without vendor-specific complexity.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshk382/orbit-queue.git"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  },
+  "keywords": [
+    "rabbitmq"
+  ],
+  "author": "Santhosh Reddy Kanameni",
+  "license": "MIT",
+  "directories": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/santhoshk382/orbit-queue/issues"
+  },
+  "homepage": "https://github.com/santhoshk382/orbit-queue#readme"
+}
